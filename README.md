@@ -2,6 +2,8 @@
 
 Estudando Versionador de Códigos (CVS/SVN/GIT).  
 
+## Release: 0.0.1
+
 ## MarginNote
 
 <marginnote3app://note/1467C880-2120-4578-8085-B9B94313CFE2>  
