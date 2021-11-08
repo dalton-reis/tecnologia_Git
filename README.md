@@ -35,3 +35,9 @@ Indica um site que explica uma metodologia para criar Branches:
       vai trazer para branch developer e master todos os ajustes, e vai "matar" branch Release.  
 
 Obs.: as branch Feature e Release ficam só no GitLocal, e as branch Develop e Master no GitLocal e GitRemoto.  
+
+----
+
+## WakaTime
+
+![DashBoard](https://wakatime.com/share/@dalton_reis/bdb5b58b-d49f-4716-8757-bcf4995b4cf6.svg "DashBoard").  
