@@ -149,6 +149,11 @@ Indica um site que explica uma metodologia para criar Branches:
 
 Obs.: as branch Feature e Release ficam só no GitLocal, e as branch Develop e Master no GitLocal e GitRemoto.  
 
+## GitHubFork
+
+[GitHubFork](GitHubFork.md "GitHubFork").  
+[GitHubChechoutRemote](GitHubChechoutRemote.md "GitHubChechoutRemote").  
+
 ----
 
 ## WakaTime
