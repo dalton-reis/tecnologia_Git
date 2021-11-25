@@ -154,6 +154,16 @@ Obs.: as branch Feature e Release ficam só no GitLocal, e as branch Develop e M
 [GitHubFork](GitHubFork.md "GitHubFork").  
 [GitHubChechoutRemote](GitHubChechoutRemote.md "GitHubChechoutRemote").  
 
+## Git CheckOut
+
+<https://blog.betrybe.com/git/git-checkout/#1>
+
+----
+
+## Fontes
+
+<https://blog.betrybe.com/git>
+
 ----
 
 ## WakaTime
