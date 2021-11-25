@@ -163,6 +163,7 @@ Obs.: as branch Feature e Release ficam só no GitLocal, e as branch Develop e M
 ## Fontes
 
 <https://blog.betrybe.com/git>
+<https://blog.betrybe.com/tecnologia/comandos-git/>
 
 ----
 
