@@ -165,6 +165,10 @@ Obs.: as branch Feature e Release ficam só no GitLocal, e as branch Develop e M
 <https://blog.betrybe.com/git>
 <https://blog.betrybe.com/tecnologia/comandos-git/>
 
+## Ler
+
+[ ] [git-cheat-sheet-education.pdf](git-cheat-sheet-education.pdf)  
+
 ----
 
 ## WakaTime
