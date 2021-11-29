@@ -168,6 +168,7 @@ Obs.: as branch Feature e Release ficam só no GitLocal, e as branch Develop e M
 ## Ler
 
 [ ] [git-cheat-sheet-education.pdf](git-cheat-sheet-education.pdf)  
+[ ] 
 
 ----
 
